@@ -9,3 +9,6 @@ https://docs.google.com/spreadsheets/d/1h0mrEkqtjpN59FZ-OfDx82ujIMOER-Jzdf153ugr
 [Test run 2024_05_16.pdf](https://github.com/avantiragazzi/web/files/15394908/Test.run.2024_05_16.pdf)
 ## Отчет о дефектах Cart Management и Order Management
 [Отчет о дефектах.xlsx](https://github.com/avantiragazzi/web/files/15394912/default.xlsx)
+## Перехват трафика 
+https://github.com/avantiragazzi/web/assets/60890056/22994116-8b7f-4927-8ebe-fdc10d3115b8
+
